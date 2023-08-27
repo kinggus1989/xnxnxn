@@ -1,0 +1,733 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+        <loc>https://www.whittard.co.uk/</loc>
+        <priority>1</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/stores</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/account</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/sale/summer-sale</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/all-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/black-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/green-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/fruit-herbal-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/instant-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/flavoured-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/matcha</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/oolong</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/rooibos</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/white-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/chai-tea</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/cold-brew-teabags</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/citrus</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/floral</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/fruity</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/malty</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/nutty</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/savoury</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/smoky</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/spicy</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-flavours/sweet</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/teatea-equipmentall-tea-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-equipment/all-tea-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-equipment/infusers-strainers</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-equipment/tea-accessories</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-equipment/teapots</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/collections/tea-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea-subscriptions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/tea-tips.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/shop-by-coffee-roast-1</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/shop-by-coffee-roast/dark</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/shop-by-coffee-roast/light</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/shop-by-coffee-roast/medium</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/all-coffee</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/coffee-beans</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/ground-coffee</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/flavoured-coffee</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/coffee-bags</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/all-coffee-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/coffee-accessories</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/cafetieres</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/coffee-grinders</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/coffee-makers</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/stovetops</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/coffee-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee-subscriptions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/coffee-knowledge.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolatehot-chocolate</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate/special-editions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate/chocolate-spoons</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate-equipment/all-hot-chocolate-equipment</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate-equipment/milk-frothers</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate-gifts/all-hot-chocolate-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/search?cgid=hot-chocolate-subscriptions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/hot-chocolate-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/hot-chocolate-handbook/how-to-make-hot-chocolate.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/all-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/biscuits</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/hampers-and-gift-boxes</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/equipment-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/tea-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/gift-selection-packs</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/customisable-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/corporate-gifts-1</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire/gifts-under-%C2%A330</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire/gifts-under-%C2%A350</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire/luxury-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire/vegan-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gifts-to-inspire/teacher-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/collections/best-of-british</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-collections/tea-discoveries</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-collections/alice-in-wonderland</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/search?cgid=hot-chocolate-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/whats-new/about-subscriptions.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/instant-tea-subscriptions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/subscriptions/all-subscriptions/all-subscriptions</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/tea-tips/tea-type-guide.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/coffee-knowledge/how-to-use-coffee-bags.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/whittard-wisdom.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate-handbook.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/recipes.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/whats-new.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/trending</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/trending/bestsellers</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/trending/new</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/trending/top-rated</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/coffee-knowledge/milk_alternatives.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/tea-tips/brew-the-perfect-cup.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/coffee-knowledge/become_a_barista.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/wishlist</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/login</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/register</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/cart</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//tea/strawberry-lemonade-fruit-infusion-357079.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/strawberry-lemonade-fruit-infusion-357079.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//tea/coconut-matcha-356451.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/coconut-matcha-356451.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//coffee/coffee-type/coffee-bags/monsoon-malabar-coffee-bags-352807.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-type/coffee-bags/monsoon-malabar-coffee-bags-352807.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//all/classic-green-tea-loose-caddy-356337.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/all/classic-green-tea-loose-caddy-356337.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//tea/tea-equipment/all-tea-equipment/alice-in-wonderland-cup-and-saucer-333765.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-equipment/all-tea-equipment/alice-in-wonderland-cup-and-saucer-333765.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//gifts-and-confectionary/gift-type/tea-gifts/english-breakfast-alice-in-wonderland-mini-caddy-326157.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/gift-type/tea-gifts/english-breakfast-alice-in-wonderland-mini-caddy-326157.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//tea/tea-type/cold-brew-teabags/cold-brew-watermelon-strawberry-and-lime-pyramid-teabags-353953.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/cold-brew-teabags/cold-brew-watermelon-strawberry-and-lime-pyramid-teabags-353953.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk//hot-chocolate/hot-chocolate/special-editions/limited-edition-100%25-cameroon-cocoa-powder-336503.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/hot-chocolate/hot-chocolate/special-editions/limited-edition-100%2525-cameroon-cocoa-powder-336503.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/all-coffee</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/summer/explore-summer/travel-essentials</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/tea-tips/how-to-make-iced-tea.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/coffee-knowledge/a-guide-to-cold-brew-coffee.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/hot-chocolate-handbook/milkshakes.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/tea-type/green-tea/jasmine-loose-tea-MSTR314641.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/tea/coconut-oolong-loose-tea-346080.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/coffee/coffee-equipment/coffee-makers/aeropress-coffee-maker-302224.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/whats-new/history-of-whittard.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/press-releases.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/faqs.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/contactus</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/delivery-returns.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/trade.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/gifts-and-confectionary/corporate-gifts</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/taste-guarantee.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/student-discount.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/key-worker-discount.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/discover/whats-new/top-taster.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/mention_me.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/Reviews.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/terms.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>https://www.whittard.co.uk/cookie-policy-onetrust.html</loc>
+        <priority>0.8</priority>
+        <lastmod><?= date("Y-m-dTh:m:s+00:00"); ?></lastmod>
+</url>
+<url>
+        <loc>http://whittard.co.uk/terms.html
